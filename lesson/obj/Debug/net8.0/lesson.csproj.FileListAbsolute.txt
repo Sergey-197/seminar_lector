@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\lection1\lesson\bin\Debug\net8.0\lesson.exe
+C:\Users\пк\Desktop\lection1\lesson\bin\Debug\net8.0\lesson.deps.json
+C:\Users\пк\Desktop\lection1\lesson\bin\Debug\net8.0\lesson.runtimeconfig.json
+C:\Users\пк\Desktop\lection1\lesson\bin\Debug\net8.0\lesson.dll
+C:\Users\пк\Desktop\lection1\lesson\bin\Debug\net8.0\lesson.pdb
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.AssemblyInfo.cs
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.dll
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\refint\lesson.dll
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.pdb
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\lesson.genruntimeconfig.cache
+C:\Users\пк\Desktop\lection1\lesson\obj\Debug\net8.0\ref\lesson.dll
